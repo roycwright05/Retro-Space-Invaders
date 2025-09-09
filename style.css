@@ -1,0 +1,16 @@
+#canvas1 {
+    border: 5px solid black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    translate: -50% -50%;  
+    background-image: url('../src/img/background.png');
+    background-attachment: fixed;
+}
+
+#beetlemorph, #player_jets, #player {
+    display: none;
+}
+
+
+            

@@ -1,0 +1,10 @@
+1. Encapsulations - which means we will group data and methods that operate on that data into separate
+bundles, into objects.
+
+We can also restrict access to taht data from outside  the bundle using closures,
+private fields, etc.
+
+Find, delayed function and flashing text
+Find color for fillrect function
+
+control + `/~  to toggle terminal window
